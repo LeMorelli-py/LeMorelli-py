@@ -2,7 +2,7 @@
 Desenvolvedor Python e
 Cientista de dados em Formação.
 
-💁🏽‍♂ Em transição de Carreira<br>
+💁🏽‍♂ Desenvolvedor Python e Javascript (nodeJS)<br>
 🏋🏻‍♂ Praticante de Musculação<br>
 🔍 Em busca do meu primeiro emprego dev<br>
 💻 Atualmente focado em:<br>
