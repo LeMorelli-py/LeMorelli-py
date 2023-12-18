@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Leandro,
 Desenvolvedor Python e
-Cientista de dados em Formação.
+Cientista de dados
 
 💁🏽‍♂ Desenvolvedor Python e Javascript (nodeJS)<br>
 🏋🏻‍♂ Praticante de Musculação<br>
