@@ -2,7 +2,7 @@
 Desenvolvedor Python e
 Cientista de dados
 
-💁🏽‍♂ Desenvolvedor Python e Javascript (nodeJS)<br>
+💁🏽‍♂ Desenvolvedor Python e R<br>
 🏋🏻‍♂ Praticante de Musculação<br>
 🔍 Em busca do meu primeiro emprego dev<br>
 💻 Atualmente focado em:<br>
@@ -11,7 +11,7 @@ Cientista de dados
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 </div>
 
                             
@@ -20,6 +20,7 @@ Cientista de dados
 <div display = 'inline'>
 <img width = '50' height = '50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 #### Você também me encontra em:
