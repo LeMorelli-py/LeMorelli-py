@@ -2,9 +2,9 @@
 Desenvolvedor Python e
 Cientista de dados
 
-💁🏽‍♂ Desenvolvedor Python e R<br>
+💁🏽‍♂ Hoje trabalho como Analísta de dados Junior no Escritório Contábil Morelli<br>
 🏋🏻‍♂ Praticante de Musculação<br>
-🔍 Em busca do meu primeiro emprego dev<br>
+🔍 Estudos focados em Data Science<br>
 💻 Atualmente focado em:<br>
 
 <div display = 'inline'>
