@@ -8,6 +8,9 @@ Cientista de dados
 💻 Atualmente focado em:<br>
 
 <div display = 'inline'>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+<img  width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -15,7 +18,7 @@ Cientista de dados
 </div>
 
                             
-- Conhecimentos básicos em:
+- Conhecimentos também em:
 
 <div display = 'inline'>
 <img width = '50' height = '50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
