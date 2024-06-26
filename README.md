@@ -9,7 +9,7 @@ Cientista de dados
 
 <div display = 'inline'>
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" />          
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <img width = '50' height = '50' color= white src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
