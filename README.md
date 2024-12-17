@@ -1,8 +1,7 @@
 ### Olá, Meu nome é Leandro,
-Desenvolvedor Python e
-Cientista de dados
+Analista e Cientista de Dados
 
-💁🏽‍♂ Hoje trabalho como Analísta de Dados Junior no Escritório Contábil Morelli<br>
+💁🏽‍♂ Hoje trabalho como Analísta de Dados Júnior na Integrale Gestão Empresarial (Jaú/SP)<br>
 🏋🏻‍♂ Praticante de Musculação<br>
 🔍 Estudos focados em Data Science<br>
 💻 Atualmente focado em:<br>
